@@ -1,0 +1,12 @@
+.photo-slider img {
+	width: 512px;
+}
+
+.thumbnails img {
+	width: 500px;
+}
+
+#cat1, #cat2, #cat3, #cat4 {
+	display: inline;
+	width: 125px;
+}
