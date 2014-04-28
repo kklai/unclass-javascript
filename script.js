@@ -1,5 +1,4 @@
 $(document).ready(function(){
-  // use $(“#INSERT-YOUR-OWN-ID”).attr(“src”, imgFileName.jpg); to change the image after click
 
 	$('#one').click(function(){
 		console.log("You clicked on the first drunk cat!");
